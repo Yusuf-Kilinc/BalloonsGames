@@ -1,0 +1,97 @@
+{
+  "_500_At_metinler": [
+    {
+      "sentence": "At ne inat.",
+      "words": [ "At", "ne", "inat", "." ],
+      "correct": [ "ne" ]
+    },
+    {
+      "sentence": "Anne ata nane at.",
+      "words": [ "Anne", "ata", "nane", "at", "." ],
+      "correct": [ "nane" ]
+    },
+    {
+      "sentence": "En inat at.",
+      "words": [ "En", "inat", "at", "." ],
+      "correct": [ "inat" ]
+    },
+    {
+      "sentence": "Nene at ne inat.",
+      "words": [ "Nene", "at", "ne", "inat", "." ],
+      "correct": [ "ne" ]
+    }
+  ],
+  "_501_ta_metinler": [
+    {
+      "sentence": "Ata ata nane at.",
+      "words": [ "Ata", "ata", "nane", "at", "." ],
+      "correct": [ "ata", "nane" ]
+    },
+    {
+      "sentence": "Tane tane at.",
+      "words": [ "Tane", "tane", "at", "." ],
+      "correct": [ "tane" ]
+    },
+    {
+      "sentence": "Tan nane at.",
+      "words": [ "Tan", "nane", "at", "." ],
+      "correct": [ "nane" ]
+    },
+    {
+      "sentence": "Tan ata ne at.",
+      "words": [ "Tan", "ata", "ne", "at", "." ],
+      "correct": [ "ata" ]
+    }
+  ],
+  "_502_et_metinler": [
+    {
+      "sentence": "Anne et tat.",
+      "words": [ "Anne", "et", "tat", "." ],
+      "correct": [ "et" ]
+    },
+    {
+      "sentence": "Anne ata et at.",
+      "words": [ "Anne", "ata", "et", "at", "." ],
+      "correct": [ "et" ]
+    },
+    {
+      "sentence": "Ata et at.",
+      "words": [ "Ata", "et", "at", "." ],
+      "correct": [ "et" ]
+    },
+    {
+      "sentence": "Tane tane at.",
+      "words": [ "Tane", "tane", "at", "." ],
+      "correct": [ "tane" ]
+    }
+  ],
+  "_503_te_metinler": [
+    {
+      "sentence": "Anne anten net.",
+      "words": [ "Anne", "anten", "net", "." ],
+      "correct": [ "anten" ]
+    },
+    {
+      "sentence": "Tan anten net.",
+      "words": [ "Tan", "anten", "net", "." ],
+      "correct": [ "anten" ]
+    },
+    {
+      "sentence": "Anten ne net.",
+      "words": [ "Anten", "ne", "net", "." ],
+      "correct": [ "anten" ]
+    },
+    {
+      "sentence": "En net anten.",
+      "words": [ "En", "net", "anten", "." ],
+      "correct": [ "anten" ]
+    }
+  ],
+  "_504_yeni_kategori": [
+    {
+      "sentence": "Bu yeni bir cümle.",
+      "words": [ "Bu", "yeni", "bir", "cümle", "." ],
+      "correct": [ "yeni" ]
+    }
+  ]
+}
